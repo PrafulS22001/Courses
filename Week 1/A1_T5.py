@@ -1,4 +1,4 @@
-# Calculate the area of a wall 
+ # Calculate the area of a wall 
 print ("Calculate the area of a wall.")
 
 Feed= float(input("Enter the width in meters: "))
