@@ -3,7 +3,7 @@ print ("This is a program with simple menu, where you can choose which operation
 
 Name = input("Before the menu, please insert your name: ")
 
-print ("Options: ")
+print ("\nOptions: ")
 print ("1 - Print welcome message \n0 - Exit ")
 
 choice = int(input("Your choice: "))
