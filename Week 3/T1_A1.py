@@ -10,7 +10,7 @@ if num1 > num2:
 elif num1 < num2: 
     print ("Second integer is greater. \n")
 else:
-    print ("Both integers are equal. \n")
+    print ("Integers are the same. \n")
 
 print ("Adding integers together.")
 
